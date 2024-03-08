@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "896259979826",
+    "firebase_url": "https://chat-app-2a157-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-2a157",
+    "storage_bucket": "chat-app-2a157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896259979826:android:ce4873b6f87cf7e5c75a2b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEi2tnV5Z4WOH2_DH47KHdAowQNf63w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896259979826:android:9123f1436c2d08d7c75a2b",
+        "android_client_info": {
+          "package_name": "com.example.chatappkt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEi2tnV5Z4WOH2_DH47KHdAowQNf63w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896259979826:android:f8e27bb858f66a98c75a2b",
+        "android_client_info": {
+          "package_name": "com.example.chatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEi2tnV5Z4WOH2_DH47KHdAowQNf63w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
